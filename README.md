@@ -39,31 +39,31 @@ Ele foi pensado para pequenos empreendedores que precisam registrar entradas, cu
 
 O Dashboard centraliza indicadores essenciais do mês, gráficos e alertas educativos para apoiar a tomada de decisão.
 
-![imageGestao1](https://github.com/Miguel-Olimpio/Gest-oEmpresarial/assets/107503116/imageGestao1)
+![imageGestao1](https://github.com/user-attachments/assets/02748839-7918-4bb5-a6dc-3e42ac3e0501)
 
 ### 2. Registre vendas e entradas
 
 Na área de vendas, o usuário registra entradas em dinheiro, vendas por máquina de cartão, condições de recebimento e conferência dos valores previstos.
 
-![imageGestao2](https://github.com/Miguel-Olimpio/Gest-oEmpresarial/assets/107503116/imageGestao2)
+![imageGestao2](https://github.com/user-attachments/assets/0744cb8a-7e86-414c-ab2f-7dc3fe0e7144)
 
 ### 3. Controle o fluxo de caixa
 
 O fluxo de caixa reúne lançamentos manuais e recebíveis previstos, ajudando a empresa a visualizar entradas, saídas e saldo do período.
 
-![imageGestao3](https://github.com/Miguel-Olimpio/Gest-oEmpresarial/assets/107503116/imageGestao3)
+![imageGestao3](https://github.com/user-attachments/assets/5f27b949-6c07-4cd6-b6d7-8f6c391fa1c2)
 
 ### 4. Organize custos fixos e variáveis
 
 O app permite registrar custos fixos mensais, custos variáveis e taxas automáticas relacionadas às vendas por cartão.
 
-![imageGestao4](https://github.com/Miguel-Olimpio/Gest-oEmpresarial/assets/107503116/imageGestao4)
+![imageGestao4](https://github.com/user-attachments/assets/b03b92d4-9058-4a2b-8c90-976941d7ff3d)
 
 ### 5. Cadastre colaboradores e gere PDF para contador
 
 O cadastro de colaboradores e sócios permite compor custos fixos com salários e pró-labore. No Dashboard, também é possível gerar um PDF mensal para envio ao contador.
 
-![imageGestao5](https://github.com/Miguel-Olimpio/Gest-oEmpresarial/assets/107503116/imageGestao5)
+![imageGestao5](https://github.com/user-attachments/assets/b74eecf5-e61e-4d5b-bc08-b77f1ddfc8ba)
 
 ## BANCO DE DADOS LOCAL
 
