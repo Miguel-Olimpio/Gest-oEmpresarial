@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Build / empacotamento
+build/
+dist/
+*.spec.bak
+dist.zip
+*.zip
+
+# Dados locais
+data/
+backups/
+pdfs/
+*.xlsx
+*.xls
+*.csv
+*.pdf
+
+# Sistema operacional / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
